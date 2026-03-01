@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/CloudWithVarJosh/product1-be-config
+    repoURL: https://github.com/PraveenBharati/product1-backend-config.git
     targetRevision: main
     path: manifests-be
 
